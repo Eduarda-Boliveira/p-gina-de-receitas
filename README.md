@@ -35,12 +35,12 @@ wordemy/
         └── imagem-do-projeto.jpg   
 ```
 
-## 📸 Preview
+## Preview
 
 ![alt text](imagem-do-projeto.png)
 
 
 
-## 👩‍💻 Autora
+## Autora
 
 Desenvolvido por **Eduarda Barbosa de Oliveira**.
